@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/one-piece-toilets-logo.svg?v=1",
   newsletterUrl: "",
   affiliateTag: "bestonepiecetoil-20",
-  gaId: "TBD",
+  gaId: "G-PCF190GJD9",
   colors: {
     primary: "#37556B",
     primaryLight: "#5A7994",

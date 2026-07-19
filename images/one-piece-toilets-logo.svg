@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Best One Piece Toilets">
+  <circle cx="24" cy="24" r="23" fill="#37556B"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 14 h12 a2 2 0 0 1 2 2 v6 h-16 v-6 a2 2 0 0 1 2 -2 z"/>
+    <path d="M14 22 h20 v3 a10 10 0 0 1 -10 10 a10 10 0 0 1 -10 -10 z"/>
+    <ellipse cx="24" cy="27" rx="6" ry="3.5" stroke="#C08A4E"/>
+  </g>
+</svg>
